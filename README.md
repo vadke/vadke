@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 **About Me**
-I am a **Master of Science in Business Analytics (MSBA)** graduate from **Arizona State University** with experience using SQL, Python, Power BI and Tableau to solve pricing, forecasting, and operational analytics problems. This repository showcases projects in **data analysis**, **machine learning**, **optimization**, and **business intelligence**, with a focus on translating data into actionable insights and real-world business impact.
+I am a **Master of Science in Business Analytics (MSBA)** graduate from **Arizona State University** with experience using **SQL**, **Python**, **Power BI** and **Tableau** to solve pricing, forecasting, and operational analytics problems. This repository showcases projects in **data analysis**, **machine learning**, **optimization**, and **business intelligence**, with a focus on translating data into actionable insights and real-world business impact.
 
 I don't just analyze data; I translate it into **strategy**.
 * 🎓 **Alumni:** W. P. Carey School of Business, ASU (MSBA).
