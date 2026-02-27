@@ -63,7 +63,7 @@ I don't just analyze data; I translate it into **strategy**.
 
 ---
 
-### 📫 **Let's Connect**
+###  **Let's Connect**
 <a href="https://linkedin.com/in/vinit-adke">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
