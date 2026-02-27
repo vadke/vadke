@@ -1,22 +1,22 @@
-# 🚀 Hi there, I am Vinit Vijaykumar Adke!
+# Hi there, I am Vinit Vijaykumar Adke!
 
 ### **Business Analyst | Data Analyst | SQL, Python, Power BI, Tableau | Pricing, Forecasting & KPI Analytics**
 *Turning messy data into money-saving business decisions.*
 
 ---
 
-### 👨‍💻 **About Me**
+### **About Me**
 I am a **Master of Science in Business Analytics (MSBA)** graduate from **Arizona State University** with experience using **SQL**, **Python**, **Power BI** and **Tableau** to solve pricing, forecasting, and operational analytics problems. This repository showcases projects in **data analysis**, **machine learning**, **optimization**, and **business intelligence**, with a focus on translating data into actionable insights and real-world business impact.
 
 I don't just analyze data; I translate it into **strategy**.
-* 🎓 **Alumni:** W. P. Carey School of Business, ASU (MSBA).
-* 💼 **Experience:** Ex-Engineer @ Taiyo Nippon Sanso (Managed $12M+ Accounts).
-* 🔭 **Focus:** Data Analysis, Machine Learning, Predictive Modeling, & Business Intelligence.
-* ⚡ **Fun Fact:** I once used a Monte Carlo simulation to save a client $1.15M - without writing a single line of production code.
+*  **Alumni:** W. P. Carey School of Business, ASU (MSBA).
+*  **Experience:** Ex-Engineer @ Taiyo Nippon Sanso (Managed $12M+ Accounts).
+*  **Focus:** Data Analysis, Machine Learning, Predictive Modeling, & Business Intelligence.
+*  **Fun Fact:** I once used a Monte Carlo simulation to save a client $1.15M - without writing a single line of production code.
 
 ---
 
-### 🛠 **My Tech Stack**
+###  **My Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -27,7 +27,7 @@ I don't just analyze data; I translate it into **strategy**.
 
 ---
 
-### 🧠 **Machine Learning & AI**
+###  **Machine Learning & AI**
 
 | **Project** | **Business Impact** | **Tech Used** |
 | :--- | :--- | :--- |
@@ -38,7 +38,7 @@ I don't just analyze data; I translate it into **strategy**.
 
 ---
 
-### 🚚 **Supply Chain & Strategy**
+###  **Supply Chain & Strategy**
 
 | **Project** | **Business Impact** | **Tech Used** |
 | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ I don't just analyze data; I translate it into **strategy**.
 
 ---
 
-### ⚙️ **Product & Process Innovation**
+###  **Product & Process Innovation**
 
 | **Project** | **Business Impact** | **Tech Used** |
 | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ I don't just analyze data; I translate it into **strategy**.
 
 ---
 
-### 📊 **GitHub Stats**
+###  **GitHub Stats**
 ![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadke&show_icons=true&theme=radical)
 
 ---
