@@ -6,7 +6,7 @@
 ---
 
 ### **About Me**
-I am a **Master of Science in Business Analytics (MSBA)** graduate from **Arizona State University** with experience using **SQL**, **Python**, **Power BI**, **Tableau**, **Azure Data Factory**, **Azure Databricks**, **Amazon S3**, **Amazon Redshift** and **AWS Glue** to solve pricing, forecasting, financial and operational analytics problems. This repository showcases projects in **data analysis**, **machine learning**, **optimization**, and **business intelligence**, with a focus on translating data into actionable insights and real-world business impact.
+I am a **Master of Science in Business Analytics (MSBA)** graduate from **Arizona State University** with experience using **SQL**, **Python**, **Power BI**, **Tableau**, **Azure Data Factory**, **Azure Databricks**, **Amazon S3**, **Amazon Redshift** and **AWS Glue** to solve pricing, forecasting, financial and operational analytics problems. This repository showcases projects in **Data Analysis**, **Machine Learning**, **Optimization**, and **Business Intelligence**, with a focus on translating data into actionable insights and real-world business impact.
 
 I don't just analyze data; I translate it into **strategy**.
 *  **Alumni:** W. P. Carey School of Business, ASU (MSBA).
@@ -58,7 +58,7 @@ I don't just analyze data; I translate it into **strategy**.
 
 | **Project** | **Business Impact** | **Tech Used** |
 | :--- | :--- | :--- |
-| **[Grip Lab AI: "Recovery 2.0"](https://github.com/vadke/Grip-Lab-Wearable-AI)** | **(Capstone)** Engineered a proprietary algorithm integrating Grip Strength into Oura/Whoop scores to detect CNS fatigue. | *Product Strategy, XGBoost, Wearables* |
+| **[Grip Lab AI: "Recovery 2.0"](https://github.com/vadke/Grip-Lab-Wearable-AI)** | **(Capstone)** Engineered a proprietary algorithm integrating Grip Strength into Oura/Whoop scores to detect CNS fatigue. | *Python, XGBoost, Azure Data Factory* |
 | **[Lean Six Sigma: Cycle Time](https://github.com/vadke/Lean-Six-Sigma-Cycle-Time-Reduction)** | Reduced proposal cycle time by **15%** for a $60B tech firm using the DMAIC framework and Process Mapping. | *Tableau, Minitab, Process Mapping* |
 | **[Product Design Optimization](https://github.com/vadke/Product-Design-Optimization-DOE)** | Maximized product performance while minimizing cost using a **2⁴ Full Factorial Design of Experiment (DOE)**. | *Minitab, ANOVA, Experimental Design* |
 
