@@ -6,11 +6,11 @@
 ---
 
 ### **About Me**
-I am a **Master of Science in Business Analytics (MSBA)** graduate from **Arizona State University** with experience using **SQL**, **Python**, **Power BI** and **Tableau** to solve pricing, forecasting, and operational analytics problems. This repository showcases projects in **data analysis**, **machine learning**, **optimization**, and **business intelligence**, with a focus on translating data into actionable insights and real-world business impact.
+I am a **Master of Science in Business Analytics (MSBA)** graduate from **Arizona State University** with experience using **SQL**, **Python**, **Power BI**, **Tableau**, **Azure Data Factory**, **Azure Databricks**, **Amazon S3**, **Amazon Redshift** and **AWS Glue** to solve pricing, forecasting, financial and operational analytics problems. This repository showcases projects in **data analysis**, **machine learning**, **optimization**, and **business intelligence**, with a focus on translating data into actionable insights and real-world business impact.
 
 I don't just analyze data; I translate it into **strategy**.
 *  **Alumni:** W. P. Carey School of Business, ASU (MSBA).
-*  **Experience:** Ex-Engineer @ Taiyo Nippon Sanso (Managed $12M+ Accounts).
+*  **Experience:** Ex-Engineer @ Taiyo Nippon Sanso (Managed $24M+ Accounts).
 *  **Focus:** Data Analysis, Machine Learning, Predictive Modeling, & Business Intelligence.
 *  **Fun Fact:** I once used a Monte Carlo simulation to save a client $1.15M - without writing a single line of production code.
 
@@ -24,6 +24,12 @@ I don't just analyze data; I translate it into **strategy**.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Minitab](https://img.shields.io/badge/Minitab-005C84?style=for-the-badge&logo=minitab&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azuredatafactory&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 ---
 
